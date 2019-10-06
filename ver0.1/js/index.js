@@ -38,7 +38,7 @@ function resultToText(result) {
     switch(result) {
         case WIN:  return "あなたの勝ち";
         case LOSE: return "あなたの負け";
-        case DRAW: return "あなたの負け";
+        case DRAW: return "あいこ";
     }
 }
 
