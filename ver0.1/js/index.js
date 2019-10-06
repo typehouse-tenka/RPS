@@ -32,7 +32,7 @@ function resultToText(result) {
     switch(result) {
         case 0: return "あなたの勝ち";
         case 1: return "あなたの負け";
-        case 2: return "あなたの負け、二度とじゃんけんできないねぇ...";
+        case 2: return "あなたの負け";
     }
 }
 
