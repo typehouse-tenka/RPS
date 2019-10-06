@@ -44,5 +44,5 @@ function resultToText(result) {
 
 // 相手の手を生成する
 function generateEnemyHand() {
-    return Math.round( Math.random()*100 ) % 2;
+    return Math.round( Math.random()*2 );
 }
