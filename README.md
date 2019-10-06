@@ -1,4 +1,4 @@
-[![Image from Gyazo](https://i.gyazo.com/c9efcad44a0d01476885b6eb4aaaae91.png)](https://gyazo.com/c9efcad44a0d01476885b6eb4aaaae91)
+[![Image from Gyazo](https://i.gyazo.com/04142ed4bd2b2bb934a0f0fde843c03b.png)](https://gyazo.com/04142ed4bd2b2bb934a0f0fde843c03b)
 
 # ProjectTennozIsle
 
