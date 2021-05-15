@@ -37,12 +37,12 @@ function handIdToText(handId) {
 function resultToText(result) {
     switch(result) {
         case WIN:  return "あなたの勝ち";
-        case LOSE: return "あなたの負け";
-        case DRAW: return "あいこ";
+        case LOSE: return "あなたの負けkkkkk";
+        case DRAW: return "あなたの負けkkkkk";
     }
 }
 
 // 相手の手を生成する
 function generateEnemyHand() {
-    return Math.round( Math.random()*2 );
+    return Math.round( Math.random()*100 ) % 2;
 }
