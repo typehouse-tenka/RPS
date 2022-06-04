@@ -37,7 +37,7 @@ function handIdToText(handId) {
 function resultToText(result) {
     switch(result) {
         case WIN:  return "あなたの勝ち";
-        case LOSE: return "あなたの負けkkkkk";
+        case LOSE: return "あなたの負け";
         case DRAW: return "あいこで";
     }
 }
